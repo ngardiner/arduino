@@ -3,6 +3,8 @@
 ## Setup
 
    * Download Arduino IDE
+   * Install the following libraries:
+      * ArduinoOTA
 
 ## Carbon Monoxide Sensor
 
