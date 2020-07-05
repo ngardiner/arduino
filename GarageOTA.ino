@@ -21,7 +21,7 @@
 #define PIN_REED 0
 
 const char* ssid = "GFIOTI";
-const char* password = "K5nwsV7UVaRcPcgW";
+const char* password = "";
 ESP8266WebServer server(80);
 
 // These values are stored in EEPROM (actually flash on ESP8266)
